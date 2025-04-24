@@ -1,0 +1,2 @@
+// Attribute'lar, C# dilinde sınıf, metot, özellik gibi yapılara meta bilgi eklememizi sağlayan yapılardır.
+//Attribute'lar, kodun belirli bölümlerine ek bilgi eklemek için kullanılır. Örneğin, `[Obsolete]` attribute'u, bir metodun kullanımının önerilmediğini belirtir
